@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alebusse/stx-multisig-bug-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alebusse/stx-multisig-bug-test/issues"
+  },
+  "homepage": "https://github.com/alebusse/stx-multisig-bug-test#readme",
+  "dependencies": {
+    "@stacks/transactions": "3.3.0",
+    "ts-node": "^10.7.0"
+  }
+}
